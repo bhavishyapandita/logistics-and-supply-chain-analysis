@@ -66,21 +66,18 @@ jupyter notebook logistics_analysis.ipynb
 
 Strategic Recommendations-
 
-Priority	                                        Recommendation
-
-Critical              	Audit First Class & Second Class shipping capacity — both operate far outside their promised SLA
-High                   	Deploy the predictive alert system in production to flag high-risk orders at confirmation
-High	                  Resolve payment-processing bottlenecks (PAYMENT_REVIEW / PENDING_PAYMENT orders are disproportionately late)
-Medium                	Build seasonal surge capacity plans for August, October, and December peaks
-Medium	                Default eligible orders to Standard Class, which outperforms premium shipping modes
-Medium                	Investigate high-delay departments (Outdoors, Golf) in Central Africa
-Low	                    Review pricing/discounting tied to the 18.7% loss-making order share
-Low	                    Retrain the predictive model quarterly with additional carrier and weather features
+Audit First Class & Second Class shipping capacity — both operate far outside their promised SLA
+Deploy the predictive alert system in production to flag high-risk orders at confirmation
+Resolve payment-processing bottlenecks (PAYMENT_REVIEW / PENDING_PAYMENT orders are disproportionately late)
+Build seasonal surge capacity plans for August, October, and December peaks
+Default eligible orders to Standard Class, which outperforms premium shipping modes
+Investigate high-delay departments (Outdoors, Golf) in Central Africa
+Review pricing/discounting tied to the 18.7% loss-making order share
+Retrain the predictive model quarterly with additional carrier and weather features
 
 
 
 
 
-Author
-
+Author-
 Bhavishya pandita
